@@ -1,0 +1,12 @@
+site_name: SS Document everything
+repo_url: https://github.com/mystara2/notes
+site_description: Documentation of things i use regularly.
+site_author: Mystara
+
+theme:
+  name: material
+
+nasv:
+  - Home: index.md
+  - Windows:
+      - Overview: Windows/index.md
