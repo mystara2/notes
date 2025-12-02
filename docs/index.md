@@ -1,2 +1,2 @@
 
-hi.
+Documentation I've written up to aid in future times i need it, or just need a simple fix to my scripts but cant remember how to write it // mistake a config error somehow and cant find out why. and also have Documentation for mods in games too eventually for setups :)
