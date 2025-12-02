@@ -6,7 +6,7 @@ So you've gone down the path of ditching spotify for local music, or are just re
 * **STEP 2**: Upgrade pip `python.exe -m pip install --upgrade pip`
 * **STEP 3**: Install spotDL `pip install yt-dlp` then `pip install --upgrade spotdl yt-dlp`
 * **STEP 4**: Configs, restart your shell (either `pwsh.exe` or close & reopen) then `spotdl --generate-config` (AND `spotdl --download-ffmpeg` else it wont work)
-* **STEP 5**: now you edit your configs, ill provide what ive edited below
+* **STEP 5**: now you edit your configs, ill provide what i've edited below
 
 ```json
 {
