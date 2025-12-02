@@ -1,9 +1,7 @@
-### creating the shop
-
 so you've wanted to make a player shop huh? well here you can find out how!
 
-so your going to place a chest, with a sign on front (see image)
-[img]()
+so your going to place a chest, with a sign on front
+![chestshopimg](/img/ResistanceCraft/chestshop-1.png)
 
 then you will write on the sign,
 ```

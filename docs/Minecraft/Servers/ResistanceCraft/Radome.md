@@ -1,3 +1,3 @@
 > Building a radome requires 54 radome blocks for each of the sides. The radar's full area is 5×5×5 blocks, however the sides are only needed to > be 3×3. Building inside the corners is not required and will serve no additional functionality or range to the radar. Upon being completed, a > sound will play. Once the radome sphere has been built, a WSR-88D must be placed directly in the centre. (see the gif for additional help) 
 
-![Radome gif](/img/build-radome.gif)
+![Radome gif](/img/ResistanceCraft/build-radome.gif)
