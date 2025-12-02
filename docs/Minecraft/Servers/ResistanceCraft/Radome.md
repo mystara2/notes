@@ -1,2 +1,3 @@
+Will have proper information here soon, for now have the .gif for it
 
-Soon:tm:
+![Radome gif fail](img/build-radome.gif)
