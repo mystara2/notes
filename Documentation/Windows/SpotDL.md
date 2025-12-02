@@ -34,3 +34,5 @@ if you get rate-limited by spotify you can make a [developer app](https://develo
 and select Web API
 
 then replace client_id and client_secret from your `config.json` to the values on the dev app.
+
+should be good to go now! simply do `spotdl [url]` to begin! if it ever errors out, run `spotdl [url] --log-level DEBUG` to find out why.
