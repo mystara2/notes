@@ -9,22 +9,22 @@ So you've gone down the path of ditching spotify for local music, or are just re
 * **STEP 5**: now you edit your configs, ill provide what ive edited below
 
 ```json
-    "ffmpeg_args": "-acodec libmp3lame -b:a 320k -compression_level 0 -threads 8 -nostats -hide_banner",
-    
-    // this will be null by default, change it to that this will encode whatever the audio format is to that specific one
-   
-    "yt_dlp_args": "--sleep-interval 3 --ignore-no-formats-error --format 140/bestaudio",
-    // sleep-interval is required by yt, so its set, we ignore format errors, and 140 is m4a, and if m4a isnt available, we do whatever the best audio track is. 
-    // you can do custom formatting in output, for me i do
-        "output": "F:/Music/Download/{artist}/[{year}] {album}/{artists} - {title}.{output-ext}",
-        
-    // i personally also add "soundcloud" as a option for audio providers aswell incase yt is dead
-        "audio_providers": [
-        "youtube",
-        "youtube-music",
-        "soundcloud"
+{
+  "_comment_audio_providers": "Add SoundCloud as a fallback provider.",
+  "audio_providers": [
+    "youtube",
+    "youtube-music",
+    "soundcloud"
+  ]
 
-    ],
+  "_comment_output": "Custom output path formatting.",
+  "output": "F:/Music/Download/{artist}/[{year}] {album}/{artists} - {title}.{output-ext}",
+  "_comment_ffmpeg_args": "Encode to MP3 320k using libmp3lame.",
+  "ffmpeg_args": "-acodec libmp3lame -b:a 320k -compression_level 0 -threads 8 -nostats -hide_banner",
+
+  "_comment_yt_dlp_args": "Force m4a when available (itag 140), otherwise fall back to bestaudio. sleep-interval helps avoid rate limiting.",
+  "yt_dlp_args": "--sleep-interval 3 --ignore-no-formats-error --format 140/bestaudio",
+}
 ```
 
 if you get rate-limited by spotify you can make a [developer app](https://developer.spotify.com) and set these values:
