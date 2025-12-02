@@ -1,6 +1,7 @@
 so you've wanted to make a player shop huh? well here you can find out how!
 
-so your going to place a chest, with a sign on front
+so your going to place a chest, with a sign on front (like below)
+
 ![chestshopimg](/img/ResistanceCraft/chestshop-1.png){ width="420" height="240" }
 
 then you will write on the sign,
@@ -19,6 +20,8 @@ Contact if out
 $50
 ```
 for the sign, with 32 dirt inside the chest, now punch the chest with redstone dust, then punch the sign to put it up for sell!, if you dont understand after this, see the video below
+
+---
 
 <iframe
   width="720"
