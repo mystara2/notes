@@ -10,3 +10,5 @@ nasv:
   - Home: index.md
   - Windows:
       - Overview: Windows/index.md
+  - Minecraft:
+      - Overview: Minecraft/index.md
