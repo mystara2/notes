@@ -9,3 +9,7 @@
 **Canceling EAS Alerts**: 
 
 * Simply do `/alerts` to grab the alert id then `/removealert <id>`
+
+**Radar doesnt work**:
+
+*  If its all static, its because you dont have a radome near (its a 3x3 range for the radomes) Head over to the [Wiki entry for Radomes](https://wiki.solarspire.net/Minecraft/Servers/ResistanceCraft/Radome/) to find out how.
