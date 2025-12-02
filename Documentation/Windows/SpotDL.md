@@ -1,12 +1,12 @@
 
-So you've gone down the path of ditching spotify for local music, or are just reinstalling it and forgot how to get it working properly, well lets do it step by step to make sure it works
+So you've gone down the path of ditching Spotify for local music, or are just reinstalling it and forgot how to get it working properly, well lets do it step by step to make sure it works
 
 
 * **STEP 1**: Install python 3.13 (if you have python already do `python --version` to check which version you have, if u have newer than 3.13, downgrade if you are older than 3.11, upgrade to 3.13)
 * **STEP 2**: Upgrade pip `python.exe -m pip install --upgrade pip`
 * **STEP 3**: Install spotDL `pip install yt-dlp` then `pip install --upgrade spotdl yt-dlp`
 * **STEP 4**: Configs, restart your shell (either `pwsh.exe` or close & reopen) then `spotdl --generate-config` (AND `spotdl --download-ffmpeg` else it wont work)
-* **STEP 5**: now you edit your configs, ill provide what i've edited below
+* **STEP 5**: now you edit your configs, ill provide what I've edited below
 
 ```json
 {
@@ -27,7 +27,7 @@ So you've gone down the path of ditching spotify for local music, or are just re
 }
 ```
 
-if you get rate-limited by spotify you can make a [developer app](https://developer.spotify.com) and set these values:
+if you get rate-limited by Spotify you can make a [developer app](https://developer.spotify.com) and set these values:
 * links you do:
 * `http://127.0.0.1:8800/`
 * `http://127.0.0.1:8800/callback`
