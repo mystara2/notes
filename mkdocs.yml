@@ -12,3 +12,7 @@ nasv:
       - Overview: Windows/index.md
   - Minecraft:
       - Overview: Minecraft/index.md
+
+
+markdown_extensions:
+  - attr_list
