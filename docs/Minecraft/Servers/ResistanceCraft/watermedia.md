@@ -37,7 +37,7 @@ Video Tutorial:
 
 ### Miscellanous
 
-## I noticed a lot of duplicate uploads for NWS logos. I'll post mine so you don't need to upload your own.
+**I noticed a lot of duplicate uploads for NWS logos. I'll post mine so you don't need to upload your own.**
 
 ~~------------------------------------------------------------------------------------------------------------------~~
 
