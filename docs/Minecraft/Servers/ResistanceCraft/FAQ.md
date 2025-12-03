@@ -4,7 +4,7 @@
 
 **Claiming**:
 
-* Simply do /kit grief, use the golden shovel to claim ur area. and /unclaim (/abandonclaim) to unclaim.
+* Simply do /claim to claim your area, and /unclaim (/abandonclaim) to unclaim.
 
 **Canceling EAS Alerts**: 
 
