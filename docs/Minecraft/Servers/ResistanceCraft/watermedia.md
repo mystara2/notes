@@ -11,7 +11,6 @@
 * Tampering with frames that do not belong to you unless given explicit permission will result in a minimum 24 hour in-game ban.
 * Do not make overly large frames for no reason.
 * We reserve the right to issue punishments for rules that are not listed here.
-* Placeholder for something else I'll probably have to add.
 
 [We're taking these rules very seriously; Don't test them.](https://youtu.be/WntjAM2wqF8)
 
