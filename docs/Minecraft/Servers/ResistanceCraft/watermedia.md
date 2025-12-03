@@ -18,7 +18,7 @@
 
 * Craft a frame/tv/projector
 * Send a DM to @Simplistic  or @Mystara on discord requesting access
-* After confirming that you agree to the rules, you will be sent an invite code to https://wf.resistancecraft.net
+* After confirming that you agree to the rules, you will be sent an invite code to [Zipline](https://wf.resistancecraft.net)
 * During sign-up **use your current minecraft username.** If you fail to do so, your account will be deleted, and you will not receive another invite.
 
 ---
