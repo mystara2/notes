@@ -1,6 +1,6 @@
-site_name: SS Document everything
+site_name: SS Documentation
 repo_url: https://github.com/mystara2/notes
-site_description: Documentation of things i use regularly.
+site_description: Wiki entries for things
 site_author: Mystara
 
 theme:
