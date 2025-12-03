@@ -42,13 +42,21 @@ Video Tutorial:
 ~~------------------------------------------------------------------------------------------------------------------~~
 
 NWS building logo for buildings with dark blocks
-```https://wf.resistancecraft.net/u/7hw8CB.png```
+
+* `https://wf.resistancecraft.net/u/7hw8CB.png`
+
 Aspect ratio: 2x1
 ~~------------------------------------------------------------------------------------------------------------------~~
+
 NWS building logo for buildings with light blocks
-```https://wf.resistancecraft.net/u/lGqy1I.png```
+
+* `https://wf.resistancecraft.net/u/lGqy1I.png`
+
 Aspect ratio: 2x1
 ~~------------------------------------------------------------------------------------------------------------------~~
+
 Alternate NWS logo, but I'm not really sure where you would use this.
-```https://wf.resistancecraft.net/u/HYh7s2.png```
+
+* `https://wf.resistancecraft.net/u/HYh7s2.png`
+
 Aspect ratio: 1x1
