@@ -21,4 +21,16 @@
 * Send a DM to @Simplistic  or @Mystara on discord requesting access
 * After confirming that you agree to the rules, you will be sent an invite code to https://wf.resistancecraft.net
 * During sign-up **use your current minecraft username.** If you fail to do so, your account will be deleted, and you will not receive another invite.
-* [Watch this video for a short tutorial](https://wf.resistancecraft.net/u/ekFzuK.mp4)
+
+---
+Video Tutorial:
+
+<iframe
+  width="720"
+  height="360"
+  src="https://wf.resistancecraft.net/u/ekFzuK.mp4"
+  title="WaterFramed tutorial"
+  frameborder="0"
+  allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen
+></iframe>
