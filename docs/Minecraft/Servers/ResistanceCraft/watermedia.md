@@ -34,3 +34,21 @@ Video Tutorial:
   allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen
 ></iframe>
+
+### Miscellanous
+
+## I noticed a lot of duplicate uploads for NWS logos. I'll post mine so you don't need to upload your own.
+
+~~------------------------------------------------------------------------------------------------------------------~~
+
+NWS building logo for buildings with dark blocks
+```https://wf.resistancecraft.net/u/7hw8CB.png```
+Aspect ratio: 2x1
+~~------------------------------------------------------------------------------------------------------------------~~
+NWS building logo for buildings with light blocks
+```https://wf.resistancecraft.net/u/lGqy1I.png```
+Aspect ratio: 2x1
+~~------------------------------------------------------------------------------------------------------------------~~
+Alternate NWS logo, but I'm not really sure where you would use this.
+```https://wf.resistancecraft.net/u/HYh7s2.png```
+Aspect ratio: 1x1
