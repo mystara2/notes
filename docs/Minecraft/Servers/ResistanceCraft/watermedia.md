@@ -46,6 +46,7 @@ NWS building logo for buildings with dark blocks
 * `https://wf.resistancecraft.net/u/7hw8CB.png`
 
 Aspect ratio: 2x1
+s
 ~~------------------------------------------------------------------------------------------------------------------~~
 
 NWS building logo for buildings with light blocks
@@ -53,6 +54,7 @@ NWS building logo for buildings with light blocks
 * `https://wf.resistancecraft.net/u/lGqy1I.png`
 
 Aspect ratio: 2x1
+
 ~~------------------------------------------------------------------------------------------------------------------~~
 
 Alternate NWS logo, but I'm not really sure where you would use this.
