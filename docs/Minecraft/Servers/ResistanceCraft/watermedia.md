@@ -18,7 +18,7 @@
 ### How to use
 
 * Craft a frame/tv/projector
-* Send a DM to <@1365498844401631354>  or <@520328199062683657> requesting access
+* Send a DM to @Simplistic  or @Mystara on discord requesting access
 * After confirming that you agree to the rules, you will be sent an invite code to https://wf.resistancecraft.net
 * During sign-up **use your current minecraft username.** If you fail to do so, your account will be deleted, and you will not receive another invite.
 * [Watch this video for a short tutorial](https://wf.resistancecraft.net/u/ekFzuK.mp4)
